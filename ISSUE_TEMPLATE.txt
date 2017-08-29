@@ -1,0 +1,25 @@
+## Story/Task Details
+- [ ] Task
+- [ ] Task
+
+## Acceptance Scenarios
+_User type: _
+The following stories assume a user with the following properties:
+1. 
+
+Scenario: 
+- Given: 
+- When:
+- Then:
+
+----------------------------------------------------------------------------------------------------
+_User type: _
+The following stories assume a user with the following properties:
+1. 
+
+Scenario: 
+- Given: 
+- When:
+- Then:
+
+## Done Done Criteria
