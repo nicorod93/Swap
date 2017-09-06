@@ -3,7 +3,7 @@
 - [ ] Task
 
 ## Acceptance Scenarios
-_User type: _
+_User type:_
 The following stories assume a user with the following properties:
 1. 
 
@@ -13,7 +13,7 @@ Scenario:
 - Then:
 
 ----------------------------------------------------------------------------------------------------
-_User type: _
+_User type:_
 The following stories assume a user with the following properties:
 1. 
 
