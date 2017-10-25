@@ -23,8 +23,8 @@ Scenario:
 - Then:
 
 ## Done Done Criteria
-- It passes all Acceptance Scenarios.
-- UI changes has been approved by Ale.
-- Swift design guideliness have been approved by Ale.
-- DB changes has been approved by Daniel.
-- Code is merged to 'master' branch.
+- [ ] It passes all Acceptance Scenarios.
+- [ ] UI changes has been approved by Ale.
+- [ ] Swift design guideliness have been approved by Ale.
+- [ ] DB changes has been approved by Daniel.
+- [ ] Code is merged to 'master' branch.
